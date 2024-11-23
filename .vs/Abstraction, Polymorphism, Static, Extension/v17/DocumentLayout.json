@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|c:\\users\\admin\\desktop\\codeac\\abstraction, polymorphism, static, extension\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|c:\\users\\admin\\desktop\\codeac\\abstraction, polymorphism, static, extension\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|c:\\users\\admin\\desktop\\codeac\\abstraction, polymorphism, static, extension\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|c:\\users\\admin\\desktop\\codeac\\abstraction, polymorphism, static, extension\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|solutionrelative:group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|c:\\users\\admin\\desktop\\codeac\\abstraction, polymorphism, static, extension\\iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D84C0DD-2A67-46ED-B66D-70AB20F5DBEF}|Abstraction, Polymorphism, Static, Extension.csproj|solutionrelative:iaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:00:02.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\Group.cs",
+              "RelativeDocumentMoniker": "Group.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\Group.cs",
+              "RelativeToolTip": "Group.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:49:45.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\Student.cs",
+              "RelativeDocumentMoniker": "Student.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\Student.cs",
+              "RelativeToolTip": "Student.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:42:26.56Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAQwFIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:05:18.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IAccount.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\IAccount.cs",
+              "RelativeDocumentMoniker": "IAccount.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\CodeAc\\Abstraction, Polymorphism, Static, Extension\\IAccount.cs",
+              "RelativeToolTip": "IAccount.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T11:02:16.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
